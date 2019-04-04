@@ -1,2 +1,2 @@
-# Prak-SisDig1
-Praktikum Sistem Digital 1
+# Prak-SisDig
+Praktikum Sistem Digital 
